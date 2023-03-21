@@ -1,0 +1,40 @@
+.header {
+    background-color: #abaecc;
+    padding: 20px;
+    height: 9vh;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 225, 255, 0.5),
+            rgba(112, 112, 165, 0.5))
+}
+
+h1 {
+    background-color: rgb(236, 233, 235);
+    color: blue;
+    border-radius: 500cqi;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: hidden;
+}
+
+.foto {
+    border-radius: 500cqb;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(199, 163, 154);
+}
+
+h2 {
+    background-color: #b0a5ca;
+    color: navy;
+}
+
+h3 {
+    background-color: #b0a5ca;
+    color: navy;
+}
+
+p {
+    color: rgb(13, 13, 15);
+}
